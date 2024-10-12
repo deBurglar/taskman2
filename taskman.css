@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+.strikethrough {
+    text-decoration: line-through;
+}
+
+.task-item {
+    margin-bottom: 10px;
+}
+
+.task-countdown {
+    margin-left: 10px;
+    font-weight: bold;
+}
